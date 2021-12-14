@@ -1,0 +1,5 @@
+name: Test Antora home page
+version: main
+title: Gravitee Antora Test
+nav:
+- modules/ROOT/nav.adoc
